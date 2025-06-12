@@ -1,0 +1,10 @@
+# Web server for webhook and SIP framework core 
+aiohttp
+aiosip
+
+# Google Cloud AI services
+google-cloud-speech
+google-cloud-texttospeech
+google-generativeai
+# For loading environment variables
+python-dotenv
